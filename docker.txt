@@ -1,0 +1,12 @@
+docker pull _____// downlaod image
+docker run ____ //run container, if image is not downloaded, then download and run
+docker ps //show all working containers
+docker ps -a //show all containers
+docker images //show all images
+docker rm _____ //delete container
+docker stop _____ //stop container
+docker start _____//start container
+docker rmi //delete image
+docker exec -it _____//run the command in container
+docker exec -it bash //connect to the terminal of container
+

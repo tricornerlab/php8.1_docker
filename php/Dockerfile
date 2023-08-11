@@ -1,4 +1,4 @@
 # php
-FROM php:7.4-fpm-alpine
+FROM php:8.1-fpm-alpine
 CMD ["php-fpm"]
 EXPOSE 9000
